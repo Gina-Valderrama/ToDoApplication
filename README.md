@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-! [Walkthrough](walkthrough.gif)
+![Walkthrough](walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+After submitting my initial commits, it was difficult to figure out how to update everything on my github
 
 ## License
 
